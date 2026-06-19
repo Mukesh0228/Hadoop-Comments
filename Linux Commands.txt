@@ -1,0 +1,37 @@
+Linux Commands: 
+
+root (Admin) - cd ~(till symbol)
+
+1  - ls  						- listing files and folders present in a current directory.
+
+2  - pwd(present working directory)   			- returns present working directory path.
+
+3  - cd(change directory)  				- Syntax :
+							 1) cd DirectoryName
+							 2) cd RootDir / SubDir
+							 3) cd ..(from current dir one step back)
+							 4) cd ~(till symbol)
+							 5) cd ../..(from current dir 2 step back)
+
+4  - mkdir   						- creating folder or dir. mkdir -p {D1,D2} 
+
+5  - rmdir   						- it remove empty directory.
+
+6  - rm filename     					- remove files.
+
+7  - rm -r   						- removes directory and it's files or folders.
+
+8  - cat >   						- filename.txt (new files) then Enter and cltr + z.
+
+9  - cat filename(ml.txt)  				- used for view the contents inside the file.
+
+10  - cat >> ml.txt   					- Adding the content at the end of the file(new line in existing file and also used for overcome from overwrite).
+
+11 - cp  						- copy a file from 1 dir to another dir. cp - <source path> <destination path>
+
+12
+
+
+
+
+
